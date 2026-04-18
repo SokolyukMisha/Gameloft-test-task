@@ -18,7 +18,7 @@ Implemented features:
 2. Open Unity Hub
 3. Add the project folder
 4. Open the project with Unity `2022.3.62f3`
-5. Open scene: `Assets/_Project/Scenes/EnchantedGarden.unity`
+5. Open scene: `Assets/Scenes/EnchantedGarden.unity`
 6. Press Play
 
 ## Controls
